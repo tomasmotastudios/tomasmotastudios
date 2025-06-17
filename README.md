@@ -1,50 +1,63 @@
+<!-- Header -->
 # 👨🏼‍💻 Tomás Mota Oliveira
+**`Programmer Font-End`**
 
-**`Photographer, Programmer, Light & Sound Technician`**
+<!-- Presentation -->
+<p>
+  Hi 👋, I'm Tomás! A passionate Programming student from Portugal.
 
-Born in Marinha Grande, Tomás Mota Oliveira works as a photographer, a programmer, a sound technician, and a lighting technician. He is currently finishing his multimedia technician course at the Calazans Duarte school. He currently works as an assistant photographer at Atlético Clube Marinhense. He has worked at Agrupamento de Escolas Marinha Grande Poente as a photographer, as well as at Sport Lisboa e Marinha. He has worked at the Calazans Duarte Secondary School as a lighting technician, sound technician, and radio announcer, where he later joined the band Os Penetras as a photographer and sound technician.
+  - 🌱 I am currently finishing the multimedia course at ESEACD
 
-<div> 
-  <a href="https://www.linkedin.com/in/makyneta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:makyneta@proton.me">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.behance.net/makyneta" target="_blank">
-  <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@makynetavevo" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://github.com/makyneta?tab=followers">
-<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/makyneta?color=ffffff&labelColor=000000&style=for-the-badge&logo=github&label=Followers&logoColor=white"/></a>
-<a href="https://github.com/makyneta?tab=repositories&sort=stargazers">
-<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/makyneta?color=ffffff&style=for-the-badge&labelColor=000000&logo=star"/></a>
-  
-</div>
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI, Programmation and Photography.
+</p>
+
+<!-- Dropdown -->
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+  - 💬 I am 26 years old, currently living in Portugal. I have fluency in Portuguese/English and have experience with HYML, CSS, JavaSript, and Python.
+
+  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+</details>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makyneta/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/makynetadev/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:makyneta@proton.me)
+![Git Hub Followers](https://custom-icon-badges.demolab.com/github/followers/makyneta?color=ffffff&labelColor=000000&style=for-the-badge&logo=github&label=Followers&logoColor=white")
+![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/makyneta?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
+
+<!-- GithubStats -->
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=makyneta&show_icons=true&theme=dark)
+
+<!-- Portfolio -->
+## Portfolio:
+- [Credit Card Bank Validator](https://github.com/makyneta/credit-card-bank-validator)
+
+<!-- GIF -->
+<p align="left">
+  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+</p>
 
 ---
 
-### 🧰 Languages and Tools
-
+## 🔥 Skills
+<!-- Skills: Programming Languages -->
+  <div style="flex-basis: 48%;">
+    <h3>Programming Languages</h3>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 </div>
 
----
-
-### 📊 Stats
-<div>
-  <a href="https://www.linkedin.com/in/makyneta">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=makyneta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makyneta&layout=compact&langs_count=10&theme=dark"/>
+  <!-- Skills: Tools & Frameworks -->
+  <div style="flex-basis: 48%;">
+    <h3>Tools & Frameworks</h3>
+    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
-
-<!--
-**makyneta/makyneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
