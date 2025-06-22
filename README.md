@@ -1,6 +1,6 @@
 <!-- Header -->
 # 👨🏼‍💻 Tomás Mota Oliveira
-**`Programmer Font-End`**
+**`Programmer Font-End & Photographer`**
 
 <!-- Presentation -->
 <p>
