@@ -1,5 +1,5 @@
 <!-- Header -->
-# 👨🏼‍💻 Tomás Mota Oliveira
+# 👨🏼‍💻 Tomás Mota
 **`Programmer Font-End & Photographer`**
 
 <!-- Presentation -->
