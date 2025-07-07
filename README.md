@@ -25,15 +25,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MakynetaACM/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MakynetaACM/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:MakynetaACM@proton.me)
-![Git Hub Followers](https://custom-icon-badges.demolab.com/github/followers/MakynetaACM?color=ffffff&labelColor=000000&style=for-the-badge&logo=github&label=Followers&logoColor=white")
-![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/MakynetaACM?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
+![Git Hub Followers](https://custom-icon-badges.demolab.com/github/followers/makynetaacm?color=ffffff&labelColor=000000&style=for-the-badge&logo=github&label=Followers&logoColor=white")
+![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/makynetaacm?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=MakynetaACM&show_icons=true&theme=dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=makynetaacm&show_icons=true&theme=dark)
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Credit Card Bank Validator](https://github.com/makyneta/credit-card-bank-validator)
+- [Credit Card Bank Validator](https://github.com/makynetaacm/credit-card-bank-validator)
 
 <!-- GIF -->
 <p align="left">
