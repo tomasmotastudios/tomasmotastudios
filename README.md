@@ -1,6 +1,6 @@
 <!-- Header -->
 # 👨🏼‍💻 Tomás Mota
-**`Programmer Font-End & Photographer`**
+**`Programmer Font-End`**
 
 <!-- Presentation -->
 <p>
@@ -8,7 +8,7 @@
 
   - 🌱 I am currently finishing the multimedia course at ESEACD
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI, Programmation and Photography.
+  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI, and Programmation.
 </p>
 
 <!-- Dropdown -->
@@ -22,18 +22,18 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MakynetaACM/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MakynetaACM/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:MakynetaACM@proton.me)
-![Git Hub Followers](https://custom-icon-badges.demolab.com/github/followers/makynetaacm?color=ffffff&labelColor=000000&style=for-the-badge&logo=github&label=Followers&logoColor=white")
-![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/makynetaacm?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasmotadev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomasmotadev/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tomasmotadev@proton.me)
+![Git Hub Followers](https://custom-icon-badges.demolab.com/github/followers/tomasmotadev?color=ffffff&labelColor=000000&style=for-the-badge&logo=github&label=Followers&logoColor=white")
+![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/tomasmotadev?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=makynetaacm&show_icons=true&theme=dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasmotadev &show_icons=true&theme=dark)
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Credit Card Bank Validator](https://github.com/makynetaacm/credit-card-bank-validator)
+- [Credit Card Bank Validator](https://github.com/tomasmotadev/credit-card-bank-validator)
 
 <!-- GIF -->
 <p align="left">
