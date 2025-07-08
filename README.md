@@ -29,7 +29,7 @@
 ![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/tomasmotadev?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasmotadev &show_icons=true&theme=dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasmotadev&show_icons=true&theme=dark)
 
 <!-- Portfolio -->
 ## Portfolio:
