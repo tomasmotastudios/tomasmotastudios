@@ -5,19 +5,19 @@
 📩 tomasmotadev@proton.me  
 🔗 [GitHub](https://tomasmotadev.lnk.to/github) • [LinkedIn](https://tomasmotadev.lnk.to/linkedin) • [Portfolio](https://tomasmotadev.lnk.to/portfolio)
 
+> Clean code, good UX, self-taught mindset.
+
 ---
 
 ## 🧠 Summary
 
-Front-end developer & freelance photographer.  
-Currently studying Multimedia, where I’m building solid foundations in:
+Front-end developer focused on web programming using HTML, CSS, Java, JavaScript, PHP, Git, and GitHub.  
+Currently studying Multimedia, emphasizing building functional, responsive, and efficient interfaces while continuously improving skills in:
 
-- Web development  
-- Photography (institutional, sports, creative)  
-- Robotics (basic programming)  
-- Graphic design  
-
-Clean code, good UX, self-taught mindset.
+- Front-end development (HTML, CSS, JavaScript, PHP)  
+- Version control and collaboration via Git and GitHub  
+- Clean code best practices and user experience (UX)  
+- Component-based programming and modern frameworks
 
 ---
 
@@ -25,9 +25,8 @@ Clean code, good UX, self-taught mindset.
 
 **👨‍💻 Front-End Developer — Freelancer**  
 `Jun 2025 – Jul 2025`  
-Responsive UI development.  
-Focus on performance, accessibility, and UX.  
-**Stack:** HTML, CSS, JavaScript, React
+Development of responsive and optimized web interfaces, focusing on performance, accessibility, and user experience.  
+**Stack:** HTML, CSS, Java, JavaScript, PHP, Git & GitHub
 
 ---
 
