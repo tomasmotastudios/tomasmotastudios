@@ -51,13 +51,10 @@ Outside of coding, Tomás also works as a f**reelance photographer**. He current
 
 - 📧 [tomasmotadev@proton.me](mailto:tomasmotadev@proton.me)
 - 📄 [CV Online](https://tomasmotadev.lnk.to/cvonline)
-- 🙋‍♂️ [About Me](https://tomasmotadev.lnk.to/aboutme)
 - 🐙 [GitHub](https://tomasmotadev.lnk.to/github)
 - 💼 [LinkedIn](https://tomasmotadev.lnk.to/linkedin)
 - ✍️ [Dev.to](https://tomasmotadev.lnk.to/devto)
 - 🧪 [CodePen](https://tomasmotadev.lnk.to/codepen)
-- 🐦 [Twitter/X](https://tomasmotadev.lnk.to/twitterx)
-- 📨 [Newsletter](https://tomasmotadev.lnk.to/newsletter)
 
 ---
 
