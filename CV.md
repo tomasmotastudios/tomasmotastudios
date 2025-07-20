@@ -1,9 +1,9 @@
 # Tomás Mota
 
 🎯 **Front-End Developer**  
-📍 Marinha Grande, Leiria, Portugal  
+📍 Leiria, Portugal  
 📩 tomasmotadev@proton.me  
-🔗 [GitHub](https://tomasmotadev.lnk.to/github) • [LinkedIn](https://tomasmotadev.lnk.to/linkedin) • [Portfolio](https://tomasmotadev.lnk.to/portfolio)
+🔗 [GitHub](https://tomasmotadev.lnk.to/github) • [LinkedIn](https://tomasmotadev.lnk.to/linkedin)
 
 > Clean code, good UX, self-taught mindset.
 
@@ -78,16 +78,15 @@ Game/training photography, editing, and club media support.
 
 ## 📜 Certifications
 
-- GitHub Copilot  
-- Storytelling for Digital Marketing  
-- Google AI & Productivity  
-- Environment Club
+- [GitHub Copilot](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749648901937/single-media-viewer?type=DOCUMENT&profileId=ACoAADbG2X4Bh81KzAEaCvyh3UgO5WhWnK37ASY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrthKSKPiT0%2BWuoqHGjwsnQ%3D%3D)
+- [Storytelling for Digital Marketing](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749668511644/single-media-viewer?type=DOCUMENT&profileId=ACoAADbG2X4Bh81KzAEaCvyh3UgO5WhWnK37ASY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrthKSKPiT0%2BWuoqHGjwsnQ%3D%3D)
+- [Google AI & Productivity](https://www.linkedin.com/in/tomasmotadev/details/certifications/1751963118367/single-media-viewer?type=DOCUMENT&profileId=ACoAADbG2X4Bh81KzAEaCvyh3UgO5WhWnK37ASY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrthKSKPiT0%2BWuoqHGjwsnQ%3D%3D)
 
 ---
 
 ## 📎 Links
 
-- 🌐 [Portfolio](https://tomasmotadev.lnk.to/portfolio)  
+- 🌐 [About](https://tomasmotadev.lnk.to/about)  
 - 🐙 [GitHub](https://tomasmotadev.lnk.to/github)  
 - 💼 [LinkedIn](https://tomasmotadev.lnk.to/linkedin)  
-- 📄 [Download CV (PDF)](https://tomasmotadev.lnk.to/cvonline)
+- 📄 [Download](https://tomasmotadev.lnk.to/cvonline)
