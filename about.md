@@ -41,12 +41,6 @@ Tomás is someone who:
 
 ---
 
-### 📸 Freelance Photography
-
-Outside of coding, Tomás also works as a f**reelance photographer**. He currently collaborates with **Atlético Clube Marinhense**, covering sports events, and has worked with schools capturing institutional photography. His visual work directly informs his design sensibility as a developer.
-
----
-
 ### 📬 Contacts & Links
 
 - 📧 [tomasmotadev@proton.me](mailto:tomasmotadev@proton.me)
