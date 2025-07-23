@@ -1,6 +1,6 @@
 <!-- Header -->
 # 👨🏼‍💻 Tomás Mota
-**`Programmer Font-End`**
+**`Front-End Developer`**
 
 <!-- Presentation -->
 <p>
@@ -36,7 +36,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Credit Card Bank Validator](https://github.com/tomasmotadev/credit-card-bank-validator)
+- [Credit Card Brand Validator](https://github.com/tomasmotadev/credit-card-brand-validator)
 
 <!-- GIF -->
 <p align="left">
