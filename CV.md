@@ -24,7 +24,7 @@ Currently studying Multimedia, emphasizing building functional, responsive, and 
 ## 💻 Dev Experience
 
 **👨‍💻 Front-End Developer — Freelancer**  
-`Jun 2025 – Jul 2025`  
+`Jun 2025 – Present`  
 Development of responsive and optimized web interfaces, focusing on performance, accessibility, and user experience.  
 **Stack:** HTML, CSS, Java, JavaScript, PHP, Git & GitHub
 
