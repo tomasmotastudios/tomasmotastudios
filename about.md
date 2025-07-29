@@ -1,4 +1,4 @@
-**Tomás Mota** is a **front-end developer** from Marinha Grande, Portugal 🇵🇹. He works as a freelancer, focusing on building modern, accessible, and responsive interfaces — always balancing aesthetics with functionality.
+**Tomás Mota** is a **full-tack developer** from Marinha Grande, Portugal 🇵🇹. He works as a freelancer, focusing on building modern, accessible, and responsive interfaces — always balancing aesthetics with functionality.
 
 ---
 
@@ -47,8 +47,8 @@ Tomás is someone who:
 - 📄 [CV Online](https://tomasmotadev.lnk.to/cvonline)
 - 🐙 [GitHub](https://tomasmotadev.lnk.to/github)
 - 💼 [LinkedIn](https://tomasmotadev.lnk.to/linkedin)
-- ✍️ [Dev.to](https://tomasmotadev.lnk.to/devto)
-- 🧪 [CodePen](https://tomasmotadev.lnk.to/codepen)
+
+<!-- ✍️ [Dev.to](https://tomasmotadev.lnk.to/devto) 🧪 [CodePen](https://tomasmotadev.lnk.to/codepen) -->
 
 ---
 
