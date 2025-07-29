@@ -1,6 +1,6 @@
 <!-- Header -->
 # 👨🏼‍💻 Tomás Mota
-**`Front-End Developer`**
+**`Full-Stack Developer`**
 
 <!-- Presentation -->
 <p>
