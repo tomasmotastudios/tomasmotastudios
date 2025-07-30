@@ -73,7 +73,7 @@
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/.github/workflows/pacman.yml">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomasmotaoliveiradev/tomasmotaoliveiradev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomasmotaoliveiradev/tomasmotaoliveiradev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tomasmotaoliveiradev/tomasmotaoliveiradev/.github/workflows/pacman.yml">
 </picture>
