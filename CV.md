@@ -1,9 +1,9 @@
-# Tomás Mota
+# Tomás Mota Oliveira
 
 🎯 **Full-Stack Developer**  
 📍 Leiria, Portugal  
-📩 tomasmotadev@proton.me  
-🔗 [GitHub](https://tomasmotadev.lnk.to/github) • [LinkedIn](https://tomasmotadev.lnk.to/linkedin)
+📩 tomasmotaoliveira@proton.me  
+🔗 [GitHub](https://github.com/tomasmotaoliveiradev) • [LinkedIn](https://www.linkedin.com/in/tomasmotaoliveira)
 
 > Clean code, good UX, self-taught mindset.
 
