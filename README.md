@@ -1,5 +1,5 @@
 <!-- Header -->
-# 👨🏼‍💻 Tomás Mota
+# 👨🏼‍💻 Tomás Mota Oliveira
 **`Full-Stack Developer`**
 
 <!-- Presentation -->
@@ -22,8 +22,8 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://tomasmotadev.lnk.to/linkedin)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tomasmotadev@proton.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasmotaoliveira)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tomasmotaoliveira@proton.me)
 ![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/tomasmotadev?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://lnk.to/tomasmotadev)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomasmotadev/) 
