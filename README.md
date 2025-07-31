@@ -1,5 +1,5 @@
 <!-- Header -->
-# 👨🏼‍💻 Tomás Mota Oliveira
+# 👨🏼‍💻 Tomás Mota
 **`Full-Stack Developer`**
 
 <!-- Presentation -->
@@ -22,9 +22,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasmotaoliveiradev)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tomasmotaoliveiradev@proton.me)
-![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/tomasmotaoliveiradev?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasmotadev)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:tomasmotadev@proton.me)
+![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/tomasmotadev?color=ffffff&style=for-the-badge&labelColor=000000&logo=star")
 [![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://lnk.to/tomasmotaoliveira)
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomasmotadev/) 
 ![Git Hub Followers](https://custom-icon-badges.demolab.com/github/followers/tomasmotadev?color=ffffff&labelColor=000000&style=for-the-badge&logo=github&label=Followers&logoColor=white") 
@@ -32,11 +32,11 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://tomasmotadev.lnk.to/codepen)-->
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasmotaoliveiradev&show_icons=true&theme=dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasmotadev&show_icons=true&theme=dark)
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Credit Card Brand Validator](https://github.com/tomasmotaoliveiradev/credit-card-brand-validator)
+- [Credit Card Brand Validator](https://github.com/tomasmotadev/credit-card-brand-validator)
 
 <!-- GIF -->
 <p align="left">
@@ -73,7 +73,7 @@
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomasmotaoliveiradev/tomasmotaoliveiradev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomasmotaoliveiradev/tomasmotaoliveiradev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tomasmotaoliveiradev/tomasmotaoliveiradev/.github/workflows/pacman.yml">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/.github/workflows/pacman.yml">
 </picture>
