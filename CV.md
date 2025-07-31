@@ -54,18 +54,19 @@ Development of responsive and optimized web interfaces, focusing on performance,
 
 ## 🗣️ Languages
 
-- 🇵🇹 PT – Native  
-- 🇬🇧 EN – Professional  
-- 🇪🇸 ES – Professional  
+- 🇵🇹 PT – Native
+- 🇬🇧 EN – Professional
+- 🇪🇸 ES – Professional
 
 ---
 
 ## 📜 Certifications
 
-- 👨‍💻 [GFT Start #6 - Programming Logic](https://www.linkedin.com/in/tomasmotadev/details/certifications/1753469115001/single-media-viewer?type=DOCUMENT&profileId=ACoAADbG2X4Bh81KzAEaCvyh3UgO5WhWnK37ASY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BjfXO9GvsTMOVJchpnnP45Q%3D%3D)
-- 👨‍💻 [GitHub Copilot](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749648901937/single-media-viewer?type=DOCUMENT&profileId=ACoAADbG2X4Bh81KzAEaCvyh3UgO5WhWnK37ASY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrthKSKPiT0%2BWuoqHGjwsnQ%3D%3D)
-- 🎯 [Storytelling for Digital Marketing](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749668511644/single-media-viewer?type=DOCUMENT&profileId=ACoAADbG2X4Bh81KzAEaCvyh3UgO5WhWnK37ASY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrthKSKPiT0%2BWuoqHGjwsnQ%3D%3D)
-- 🤖 [Google AI & Productivity](https://www.linkedin.com/in/tomasmotadev/details/certifications/1751963118367/single-media-viewer?type=DOCUMENT&profileId=ACoAADbG2X4Bh81KzAEaCvyh3UgO5WhWnK37ASY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BrthKSKPiT0%2BWuoqHGjwsnQ%3D%3D)
+- 👨‍💻 [Savegnago - Programming Logic](https://www.linkedin.com/in/tomasmotaoliveiradev/details/certifications/1753991965008/single-media-viewer)
+- 👨‍💻 [GFT Start #6 - Programming Logic](https://www.linkedin.com/in/tomasmotadev/details/certifications/1753469115001/single-media-viewer)
+- 👨‍💻 [GitHub Copilot](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749648901937/single-media-viewer)
+- 🎯 [Storytelling for Digital Marketing](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749668511644/single-media-viewer)
+- 🤖 [Google AI & Productivity](https://www.linkedin.com/in/tomasmotadev/details/certifications/1751963118367/single-media-viewer)
 
 ---
 
