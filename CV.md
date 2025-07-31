@@ -2,7 +2,7 @@
 
 🎯 **Full-Stack Developer**  
 📍 Leiria, Portugal  
-📩 tomasmotaoliveira@proton.me  
+📩 tomasmotaoliveiradev@proton.me  
 🔗 [GitHub](https://github.com/tomasmotaoliveiradev) • [LinkedIn](https://www.linkedin.com/in/tomasmotaoliveira)
 
 > Clean code, good UX, self-taught mindset.
