@@ -1,9 +1,9 @@
-# Tomás Mota Oliveira
+# Tomás Mota
 
 🎯 **Full-Stack Developer**  
 📍 Leiria, Portugal  
 📩 tomasmotaoliveiradev@proton.me  
-🔗 [GitHub](https://github.com/tomasmotaoliveiradev) • [LinkedIn](https://www.linkedin.com/in/tomasmotaoliveira)
+🔗 [GitHub](https://github.com/tomasmotadev) • [LinkedIn](https://www.linkedin.com/in/tomasmotadev)
 
 > Clean code, good UX, self-taught mindset.
 
@@ -62,7 +62,7 @@ Development of responsive and optimized web interfaces, focusing on performance,
 
 ## 📜 Certifications
 
-- 👨‍💻 [Savegnago - Programming Logic](https://www.linkedin.com/in/tomasmotaoliveiradev/details/certifications/1753991965008/single-media-viewer)
+- 👨‍💻 [Savegnago - Programming Logic](https://www.linkedin.com/in/tomasmotadev/details/certifications/1753991965008/single-media-viewer)
 - 👨‍💻 [GFT Start #6 - Programming Logic](https://www.linkedin.com/in/tomasmotadev/details/certifications/1753469115001/single-media-viewer)
 - 👨‍💻 [GitHub Copilot](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749648901937/single-media-viewer)
 - 🎯 [Storytelling for Digital Marketing](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749668511644/single-media-viewer)
