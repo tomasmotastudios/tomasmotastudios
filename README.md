@@ -32,7 +32,7 @@
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://tomasmotadev.lnk.to/codepen)-->
 
 <!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasmotadevshow_icons=true&theme=dark)
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=tomasmotadev&show_icons=true&theme=dark)
 
 <!-- Portfolio -->
 ## Portfolio:
