@@ -53,6 +53,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomasmotadev&show_icons=true&theme=dark)
 
+<img height="180em" src="https://readme-stats-git-main-gabrielvitorgls-projects.vercel.app/api/top-langs/?username=tomasmotadev&layout=compact&langs_count=9&theme=github_dark&include_all_commits=true&count_private=true&locale=en-uk&hide=LLVM"/>
+
 ---
 
 <picture>
