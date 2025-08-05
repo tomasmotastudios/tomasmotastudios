@@ -34,9 +34,9 @@ Development of responsive and optimized web interfaces, focusing on performance,
 
 **DIO — Digital Innovation One**  
 *Full-Stack Developer Track*  
-`May 2025 – Jul 2026`
+`May 2025 – Present`
 
-**Escola Secundária Engº Acácio Calazans Duarte**  
+**Calazans Duarte Secondary School**  
 *Multimedia Technician (Professional Course)*  
 `Sep 2023 – Jul 2026`
 
@@ -64,7 +64,7 @@ Development of responsive and optimized web interfaces, focusing on performance,
 
 - 👨‍💻 [Savegnago - Programming Logic](https://www.linkedin.com/in/tomasmotadev/details/certifications/1753991965008/single-media-viewer)
 - 👨‍💻 [GFT Start #6 - Programming Logic](https://www.linkedin.com/in/tomasmotadev/details/certifications/1753469115001/single-media-viewer)
-- 👨‍💻 [GitHub Copilot](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749648901937/single-media-viewer)
+- 👨‍💻 [GitHub Copilot](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749648901937/single-media-viewer) <br> <br>
 - 🎯 [Storytelling for Digital Marketing](https://www.linkedin.com/in/tomasmotadev/details/certifications/1749668511644/single-media-viewer)
 - 🤖 [Google AI & Productivity](https://www.linkedin.com/in/tomasmotadev/details/certifications/1751963118367/single-media-viewer)
 
@@ -88,7 +88,7 @@ Game/training photography, editing, and club media support.
 
 ## 📎 Links
 
-- 🌐 [About](https://tomasmotadev.lnk.to/about)  
-- 🐙 [GitHub](https://tomasmotadev.lnk.to/github)  
-- 💼 [LinkedIn](https://tomasmotadev.lnk.to/linkedin)  
-- 📄 [Download](https://tomasmotadev.lnk.to/cvonline)
+- 🌐 [About](https://github.com/tomasmotadev/tomasmotadev/blob/main/about.md)  
+- 🐙 [GitHub](https://github.com/tomasmotadev)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomasmotadev)  
+- 📄 [CV](https://github.com/tomasmotadev/tomasmotadev/blob/main/CV.md)  
