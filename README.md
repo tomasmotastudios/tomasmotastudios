@@ -52,7 +52,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tomasmotadev&show_icons=true&theme=tokyonight" width="450" />
 </p>
 
