@@ -59,6 +59,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tomasmotadev&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://readme-stats-git-main-tomasmotadec-projects.vercel.app/api/top-langs/?username=tomasmotadec&layout=compact&langs_count=9&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide=LLVM"/>
 </p>
 
 ---
