@@ -57,7 +57,7 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasmotadev&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasmotahq&show_icons=true&theme=tokyonight" width="450" />
 </p>
 
 ---
@@ -65,9 +65,9 @@
 ## 👾 Graph (Pac-Man)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/tomasmotadev/tomasmotadev/.github/workflows/pacman.yml">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tomasmotahq/tomasmotahq/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tomasmotahq/tomasmotahq/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/tomasmotahq/tomasmotahq/.github/workflows/pacman.yml">
 </picture>
 
 ---
