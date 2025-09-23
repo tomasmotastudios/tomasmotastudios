@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>🚀 Full-Stack Developer</strong><br>
-  🇵🇹 Portugal • 16 years old<br>
+  🇵🇹 Portugal • 17 years old<br>
   🎓 Multimedia Student @ ESEACD<br>
   🧠 Passionate about programming and photography<br>
   🔍 Seeking my first professional opportunity
