@@ -59,6 +59,10 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tomasmotahq&show_icons=true&theme=tokyonight" width="450" />
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasmotahq&layout=compact&theme=tokyonight" width="450" />
+</p>
+
 
 ---
 
