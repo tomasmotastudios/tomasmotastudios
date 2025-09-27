@@ -1,6 +1,6 @@
-Copyright (c) Tomás Mota Studios. All rights reserved.
+**Copyright (c) Tomás Mota Studios, Unipessoal, Lda. Todos os direitos reservados.**
 
-This software/project and its content are the exclusive property of the author.  
-No part of this project may be copied, modified, distributed, published, or used in any way without the express written permission of the author.
+Este software/projeto e o seu conteúdo são propriedade exclusiva do autor.
+Nenhuma parte deste projeto pode ser copiada, modificada, distribuída, publicada ou utilizada de qualquer forma sem a autorização expressa por escrito do autor.
 
-For requests to use or obtain authorization, contact: tomasmota.coffee934@silomails.com (or) +351 913 936 776
+Para pedidos de utilização ou obtenção de autorização, por favor contacte: tomasmota.coffee934@silomails.com (ou) +351 913 936 776
