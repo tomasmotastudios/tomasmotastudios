@@ -2,37 +2,37 @@
 <h1 align="center">👨🏼‍💻 Tomás Mota</h1>
 
 <p align="center">
-  <strong>🚀 Full-Stack Developer</strong><br>
-  🇵🇹 Portugal • 17 years old<br>
-  🎓 Multimedia Student @ ESEACD<br>
-  🧠 Passionate about programming and photography<br>
-  🔍 Seeking my first professional opportunity
+<strong>🚀 Full-Stack Developer</strong><br>
+🇵🇹 Portugal • 17 anos<br>
+🎓 Estudante de Multimédia na ESEACD<br>
+🧠 Apaixonado por programação e fotografia<br>
+🔍 À procura da minha primeira oportunidade profissional
 </p>
 
 <p align="center">
-  <a href="https://tomasmotahq.github.io/linkedin">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <a href="mailto:tomasmota.coffee934@silomails.com">
-    <img alt="ProtonMail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
-  <a href="https://tomasmotahq.github.io/cv">
-    <img alt="ProtonMail" src="https://img.shields.io/badge/-CV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/tomasmotahq">
+<img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="mailto:tomasmota.coffee934@silomails.com">
+<img alt="ProtonMail" src="https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+<a href="https://tomasmotahq.github.io/cv">
+<img alt="ProtonMail" src="https://img.shields.io/badge/-CV-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
-  <em>"Never stop building. Never stop learning."</em>
+<em>"Nunca pare de construir. Nunca pare de aprender."</em>
 </p>
 
 ---
-## 💻 Tech Stack
+## 💻 Tech
 
-### 🧑‍💻 Languages
+### 🧑‍💻 Linguagens
 
 | HTML5                                                | CSS3                                                 | JavaScript                                           | Python                                               | TypeScript                                           | React                                                | Next.js                                              | Java                                                | PHP                                                  |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|
 | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/></div> | <div align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/></div> |
 
-### 🛠 Tools & Platforms
+### 🛠 Ferramentas e Plataformas
 
 | Git                                                  | GitHub                                               | VS Code                                              | Docker                                               | Bash                                                 | PhpMyAdmin                                          |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|-----------------------------------------------------|
@@ -40,21 +40,22 @@
 
 ---
 
-## 📁 Featured Projects (Gallery)
+## 📁 Projectos (Galeria)
 
 | Project | Tech Used |
 |--------|---------------------|
-| 🔗 **[Website/Portfolio](https://tomasmotahq.github.io)**<br>Personal portfolio at <i>`tomasmotahq.github.io`</i>, featuring a clean design, responsive layout, and a selection of my web development projects. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> |
-| 🛍️ **[Flash Sale](https://tomasmotahq.github.io/exploring-java-syntax-and-logic/flash-sale)**<br>Program that calculates and displays the discount applied based on the purchase amount at the "SuperCompras" department store. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> |
-| 📦 **[Organizing Iventory](https://tomasmotahq.github.io/exploring-java-syntax-and-logic/organizing-inventory)**<br>Program helps a department store manager organize and summarize inventory data from multiple store branches. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> |
-| 🧠 **[Hero Level Classifier](https://tomasmotahq.github.io/hero-level-classifier)**<br>Classifies hero level based on XP. Uses conditionals to return levels from "Iron" to "Radiant". | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> |
-| 🎮 **[Ranked Calculator](https://tomasmotahq.github.io/ranked-calculator)**<br>Calculates player’s rank based on wins and losses using tier logic (Iron, Bronze, Silver, etc). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> |
-| ⚔️ **[Writing Hero Class Game](https://tomasmotahq.github.io/hero_game)**<br>Hero class project with attack methods per hero. Demonstrates OOP: classes, methods, conditionals. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="25"/> |
-| 🔐 **[Credit Card Brand Validator](https://tomasmotahq.github.io/credit-card-brand-validator)**<br>Detects credit card brand using regex from card number input. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/> |
+| 🔗 **[Website/Portfolio](https://tomasmotahq.github.io)**<br>Website pessoal em <i>`tomasmotahq.github.io`</i>, apresentando um design limpo, layout responsivo e uma seleção dos meus projetos de desenvolvimento web. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> |
+| 🔗 **[Gonçalo Texeira website](https://tomasmotahq.github.io/goncaloteixeira)**<br>Website profissional para Gonçalo, com design limpo, moderno, responsivo. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> |
+| 🛍️ **[Descontos Rápidos](https://tomasmotahq.github.io/exploring-java-syntax-and-logic/flash-sale)**<br>Programa que calcula e apresenta o desconto aplicado com base no valor da compra na loja de departamentos "SuperCompras". | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> |
+| 📦 **[Organizador de stock](https://tomasmotahq.github.io/exploring-java-syntax-and-logic/organizing-inventory)**<br>O programa ajuda o gestor de uma loja de departamentos a organizar e resumir os dados de stock de várias filiais. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25"/> |
+| 🧠 **[Classificador de Nível de Herói](https://tomasmotahq.github.io/hero-level-classifier)**<br>Classifica o nível do herói com base no XP. Utiliza condicionais para devolver os níveis de "Ferro" a "Radiante". | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> |
+| 🎮 **[Calculadora de Ranking](https://tomasmotahq.github.io/ranked-calculator)**<br>Calcula a classificação do jogador com base nas vitórias e derrotas utilizando a lógica de níveis (Ferro, Bronze, Prata, etc.). | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> |
+| ⚔️ **[Escrever um Jogo de Classe de Herói](https://tomasmotahq.github.io/hero_game)**<br>Projecto de classe de herói com métodos de ataque por herói. Demonstra POO: classes, métodos, condicionais. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="25"/> |
+| 🔐 **[Validador de Marca de Cartão de Crédito](https://tomasmotahq.github.io/credit-card-brand-validator)**<br>Deteta a marca do cartão de crédito utilizando a expressão regular do número do cartão introduzido. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25"/> |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statos do GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tomasmotahq&show_icons=true&theme=tokyonight" width="400" />
@@ -75,5 +76,5 @@
 ---
 
 <p align="center">
-  <b>"Code is my canvas, and the web is my gallery."</b> 🎨
+<b>"O código é o meu ecrã e a web é a minha galeria."</b> 🎨
 </p>
