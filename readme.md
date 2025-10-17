@@ -54,11 +54,11 @@
 
 ---
 
-## 📊 Statos do GitHub
+## 📊 Status do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasmotastudios&show_icons=true&theme=light" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasmotahq&layout=compact&theme=light" width="306" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasmotastudios&show_icons=true&theme=transparent&locale=pt-pt" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasmotastudios&layout=compact&theme=transparent&locale=pt-pt" width="306" />
 </p>
 
 
