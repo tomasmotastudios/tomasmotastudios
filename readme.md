@@ -57,8 +57,8 @@
 ## 📊 Statos do GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomasmotahq&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasmotahq&layout=compact&theme=tokyonight" width="306" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tomasmotastudios&show_icons=true&theme=light" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasmotahq&layout=compact&theme=light" width="306" />
 </p>
 
 
